@@ -1,6 +1,6 @@
 name:                hascurses
 version:             0.1.0.0
-github:              "mazhar266/hascurses"
+github:              "github.com/mazhar266/hascurses"
 license:             BSD3
 author:              "Mazhar Ahmed"
 maintainer:          "github.com/mazhar266"
